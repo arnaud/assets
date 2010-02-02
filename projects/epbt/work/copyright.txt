@@ -1,0 +1,19 @@
+Work based upon the following icons:
+
+* <http://www.iconfinder.net/icondetails/6949/128/>
+  Icon name: Kmultiple
+  Designer: Alessandro Rei
+  Licence: GPL
+  Icon set: Dark Glass
+
+* <http://www.iconfinder.net/icondetails/23311/128/>
+  Icon name: Dnd, Gtk, Multiple
+  Designer: Oliver Scholtz (and others)
+  Licence: GPL
+  Icon set: Human o2
+
+* <http://www.iconfinder.net/icondetails/3207/128/>
+  Icon name: Check, Ok, On, Yes
+  Designer: Everaldo Coelho
+  Licence: LGPL
+  Icon set: Crystal Clear
